@@ -13,7 +13,7 @@ import becker.robots.Wall;
  *
  * @author simon7323
  */
-public class Quiz1 {
+public class Quiz1{
 
     /**
      * @param args the command line arguments
